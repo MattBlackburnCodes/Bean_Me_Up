@@ -6,7 +6,7 @@ export default function About(props){
                 <img src={Drinks} alt="" className="aboutImgStyle"/>
             </div>
             <div className="aboutLeft">
-                <h2>About Us</h2>
+                <h2 className="alienText">About Us</h2>
                 <p>{props.about}</p>
             </div>
         </div>

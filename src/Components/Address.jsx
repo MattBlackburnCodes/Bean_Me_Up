@@ -4,7 +4,7 @@ export default function Address(props){
     return(
         <div className="addressContainer">
             <div className="addressLeft">
-                <h2>Visit Us</h2>
+                <h2 className="alienText">Visit Us</h2>
                 <p>{props.compName}</p>
                 <p>{props.address}</p>
                 <p>{props.city}, {props.state} {props.zip}</p>

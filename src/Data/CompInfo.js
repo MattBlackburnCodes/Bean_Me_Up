@@ -1,5 +1,5 @@
-import compImg from './assets/Images/Logo.jpg'
-import building from './assets/Images/Building.png'
+import compImg from '../assets/Images/Logo.jpg'
+import building from '../assets/Images/Building.png'
 
 const CompInfo = {
         compName: "Bean Me Up Scotty Cafe",
