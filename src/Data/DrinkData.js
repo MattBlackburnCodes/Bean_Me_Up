@@ -9,44 +9,56 @@ const drinkData = [
     {
         id: 1,
         name: "Galatic Swirl Latte",
-        price: "5.50",
+        sPrice: "4.75",
+        mPrice: "5.50",
+        lPrice: "6.25",
         image: GSL,
-        description: "A vibrant blend of espresso, milk, and cosmic blue and purple hues, topped with frothy foam and edible glitter resembling stars. This out-of-this-world drink is as dazzling as the cosmos."
+        description: "A cosmic blend of espresso, milk, and swirling blue and purple hues, topped with foam and edible glitter."
     },
     {
         id: 2,
         name: "Nebula Dream Cappuccino",
-        price: "6.75",
+        sPrice: "6.00",
+        mPrice: "6.75",
+        lPrice: "7.50",
         image: NDC,
-        description: "A luxurious cosmic coffee experience, served in a tall cylindrical glass. Layers of espresso and steamed milk swirl with deep blue, violet, and silver hues, topped with a frothy foam dusted with shimmering edible glitter. A drink as celestial as it is delicious."
+        description: "Deep espresso and milk layers in violet and silver, with foam and shimmering glitter."
     },
     {
         id: 3,
         name: "Stellar Fusion Latte",
-        price: "6.85",
+        sPrice: "6.10",
+        mPrice: "6.85",
+        lPrice: "7.60",
         image: SFL,
-        description: "A bold, futuristic latte featuring vibrant swirls of bright teal, orange, and metallic silver. Rich espresso layers blend with colorful foam, topped with shimmering edible glitter to evoke the vastness of space. A drink that’s truly out of this world."
+        description: "A bold latte with swirls of teal, orange, and silver, topped with foam and glitter."
     },
     {
         id: 4,
-        name: "Comsic Chai Blast",
-        price: "5.25",
+        name: "Cosmic Chai Blast",
+        sPrice: "4.50",
+        mPrice: "5.25",
+        lPrice: "6.00",
         image: CCB,
-        description: "A vibrant chai latte infused with cinnamon, cardamom, and a touch of star anise. Topped with frothy milk and shimmering edible glitter, it's a cosmic twist on a classic favorite."
+        description: "A spiced chai latte with cinnamon, cardamom, and frothy milk, topped with edible glitter for a cosmic twist."
     },
     {
         id: 5,
         name: "Supernova Berry Cooler",
-        price: "5.00",
+        sPrice: "4.25",
+        mPrice: "5.00",
+        lPrice: "5.75",
         image: SBC,
-        description: "A refreshing blend of berry tea, sparkling water, and mixed berries. Vibrant red, pink, and purple hues, topped with a sprig of mint for the ultimate cosmic refreshment."
+        description: "Berry tea, sparkling water, and fresh fruit, with vibrant flavors."
     },
     {
         id: 6,
         name: "Astro Mint Mocha",
-        price: "6.00",
+        sPrice: "5.25",
+        mPrice: "6.00",
+        lPrice: "6.75",
         image: AMM,
-        description: "A cosmic fusion of rich chocolate and refreshing mint. Topped with whipped cream, drizzled with chocolate syrup, and sprinkled with crushed mint candies, this drink offers a sweet escape to the stars."
+        description: "Rich chocolate and mint blend, topped with whipped cream and mint candy."
     }
 ]
 
