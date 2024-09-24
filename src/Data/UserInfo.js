@@ -1,9 +1,9 @@
- import MattB from '../assets/Images/MattB.png'
- import JamesK from '../assets/Images/JamesK.png'
- import DonaldG from '../assets/Images/DonaldG.png'
- import MeganS from '../assets/Images/MeganS.png'
- import OliviaG from '../assets/Images/OliviaG.png'
-import JessicaT from '../assets/Images/JessicaT.png'
+ import MattB from '../assets/Images/Testamonials/MattB.png'
+ import JamesK from '../assets/Images/Testamonials/JamesK.png'
+ import DonaldG from '../assets/Images/Testamonials/DonaldG.png'
+ import MeganS from '../assets/Images/Testamonials/MeganS.png'
+ import OliviaG from '../assets/Images/Testamonials/OliviaG.png'
+import JessicaT from '../assets/Images/Testamonials/JessicaT.png'
 
  
  const userInfo = [

@@ -1,9 +1,9 @@
-import GSL from "../assets/Images/GalaticSwirlLatte.png"
-import NDC from "../assets/Images/NebulaDreamCappucino.png"
-import SFL from "../assets/Images/StellarFusionLatte.png"
-import CCB from "../assets/Images/CosmicChaiBlast.png"
-import SBC from "../assets/Images/SupernovaBerryCooler.png"
-import AMM from "../assets/Images/AstroMintMocha.png"
+import GSL from "../assets/Images/Drinks/GalaticSwirlLatte.png"
+import NDC from "../assets/Images/Drinks/NebulaDreamCappucino.png"
+import SFL from "../assets/Images/Drinks/StellarFusionLatte.png"
+import CCB from "../assets/Images/Drinks/CosmicChaiBlast.png"
+import SBC from "../assets/Images/Drinks/SupernovaBerryCooler.png"
+import AMM from "../assets/Images/Drinks/AstroMintMocha.png"
 
 const drinkData = [
     {

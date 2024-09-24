@@ -1,4 +1,4 @@
-import Drinks from "../assets/Images/Drinks.png"
+import Drinks from "../assets/Images//Stock/Drinks.png"
 export default function About(props){
     return(
         <div className="aboutContainer">

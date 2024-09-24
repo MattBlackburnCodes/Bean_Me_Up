@@ -1,6 +1,6 @@
-import GBD from '../assets/Images/GalacticBerryDanish.png'
-import CCC from '../assets/Images/CosmicChocolateCroissant.png'
-import SCR from '../assets/Images/StardustCinnamonRoll.png'
+import GBD from '../assets/Images/Food/GalacticBerryDanish.png'
+import CCC from '../assets/Images/Food/CosmicChocolateCroissant.png'
+import SCR from '../assets/Images/Food/StardustCinnamonRoll.png'
 
 
 const pastries = [
